@@ -5,8 +5,8 @@ import AuctionArtifact from "./artifacts/Auction.json";
 import AuctionManagerArtifact from "./artifacts/AuctionManager.json";
 import NFTArtifact from "./artifacts/NFT.json";
 
-const NFT_ADDRESS = "0xeb2283672cf716fF6A1d880436D3a9074Ba94375"; // NFT contract address
-const AUCTIONMANAGER_ADDRESS = "0xea4b168866E439Db4A5183Dbcb4951DCb5437f1E"; // AuctionManager contract address
+const NFT_ADDRESS = "0xDFcC444c37E1B23214893EF51bBfEEDa00052092"; // NFT contract address
+const AUCTIONMANAGER_ADDRESS = "0x6c178540bac34218418f1Ad4f7059231fB461148"; // AuctionManager contract address
 class App extends React.Component {
   constructor(props) {
     super(props);
